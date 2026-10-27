@@ -2,6 +2,8 @@
 
 Esta é uma **Landing Page de Página Única (Single Page Application)** responsiva, criada para conscientizar sobre a importância da sustentabilidade no cotidiano, alinhada aos **Objetivos de Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU**.
 
+Acesse [aqui](https://matheustuth.github.io/trabalholucas/) uma visualização do projeto pelo Github Pages!
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
